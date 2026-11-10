@@ -5,7 +5,7 @@ I'm a Computer Science undergraduate student at AAST and a freelance Front-End W
 ### 🛠️ Tech Stack & Tools
 * **Frontend:** HTML5, CSS3, JavaScript, React (Foundations)
 * **Programming Languages:** Python, Java, C
-* **Tools & Environment:** VS Code, Cursor (AI-Assisted Dev), Git, GitHub
+* **Tools & Environment:** VS Code, Git, GitHub
 
 ### 🚀 What I Do
 * Build custom UI/UX experiences from scratch.
