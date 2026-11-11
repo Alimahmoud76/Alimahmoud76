@@ -1,4 +1,4 @@
-# Hi there, I'm Ali Mahmoud 👋
+# Hi there, I'm Ali Mahmoud 
 ### Frontend Web Developer | Python Automation | CS Student @ AAST
 
 I specialize in building custom, responsive websites from scratch—no heavy CMS frameworks or unnecessary bloat. I focus on creating engaging user experiences with modern UI aesthetics, dynamic animations, and robust Python-driven logic.
